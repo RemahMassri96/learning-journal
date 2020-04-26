@@ -12,4 +12,6 @@ The philosophy behind Markdown is that plain text documents should be readable w
 *It Converts to HTML Easily
 *It’s Used Everywhere
 
-![](https://images.unsplash.com/photo-1526047932273-341f2a7631f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+![](https://images.unsplash.com/photo-1526047932273-341f2a7631f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+if you want to ask me about markdown you can reach me via 
+[My linkedin profile](https://www.linkedin.com/in/remahmassri/)
