@@ -18,7 +18,6 @@ there are a few things that your editor must have for it to be considered good e
 - visual studio code 
 - sublime text editor 
 - php storm 
-- Atom 
  I advice you to take a look on them and pick what you like!
  for me i like [phpstorm](https://www.jetbrains.com/phpstorm/)
  
