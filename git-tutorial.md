@@ -18,8 +18,9 @@ Here are the Git commands that used :
  5. git commit : This command records or snapshots the file permanently in the version history.
   - usage : `git commit -m “[ Type in the commit message]”`
   6. git status  : This command lists all the files that have to be committed.
-    - usage : `git status`   
-    7. git push : This command sends the committed changes of master branch to your remote repository.
+    - usage : `git status`  
+    
+   7. git push : This command sends the committed changes of master branch to your remote repository.
       - usage : `git push [variable name] master `
       
   8. git pull : This command fetches and merges changes on the remote server to your working directory.
