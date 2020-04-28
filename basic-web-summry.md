@@ -1,4 +1,4 @@
-# Html (Summary)
+# HTML (Summary)
 structure is very important in helping readers to understand the message you trying to convey.
 - HTML pages are text documents.
 - HTML uses tags (characters that sit inside angled
