@@ -7,12 +7,12 @@ what makes a computer a computer ?
 - fomat the output
 
  Computers works on ones and zero , users can't directly deal with these zero and ones 
- ## Bit :
+ - Bit :
  The smallest pices of information a computer can store 
  
- ###  Binary Number Systm :
+ -  Binary Number Systm :
  we only have two digits 
  1. zero
  2. one 
 
- #### Start learning code today to change the world!
+- Start learning code today to change the world!
