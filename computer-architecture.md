@@ -10,7 +10,7 @@ what makes a computer a computer ?
  ## Bit :
  The smallest pices of information a computer can store 
  
- ### Binary Number Systmem :
+ ###  Binary Number Systmem :
  we onlyhave two digits 
  1. zero
  2. one 
