@@ -10,7 +10,7 @@ are syntax features in javascript that allow us to manuplatie values.
  3. `*` : multiply two numbers 
  4. `/` : Divide two numbers 
  5. `%` : Divide two numbers yiled reminder.
- 6. `==` : Assign values to variables.
+ 6. `=` : Assign values to variables.
 
 ### Functions :
 Functions let you group a series of statements together to perform a
