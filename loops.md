@@ -23,14 +23,14 @@ Logical operators allow you to compare the results of more than one comparsion o
  Loops check a condition. if it return ** true ** a code block will run , then the condition will be checked again and if it still return ** true ** it repates untill the condition return ** false ** 
 
  There are three common types of loops :
- 1. ** for ** :
+ 1.  for  :
  if you need to run a code a specfic number of time 
 
- 2. ** while ** :
+ 2.  while  :
  if you don't know how many times the code should run 
  
- 3. ** do .. while ** 
+ 3.  do .. while 
  the do .. while loop is very similar to while loop but has one key differance it will run always run the statments inside the curly praces at least one  even the condition evalutes to false.
- 
+
 
 
